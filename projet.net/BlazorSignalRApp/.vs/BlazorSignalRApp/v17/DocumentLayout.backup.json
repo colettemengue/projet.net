@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5749AD2E-F995-4074-9437-769C42D692CA}|BlazorSignalRApp\\BlazorSignalRApp.csproj|c:\\users\\colet\\source\\repos\\projet.net\\blazorsignalrapp\\blazorsignalrapp\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5749AD2E-F995-4074-9437-769C42D692CA}|BlazorSignalRApp\\BlazorSignalRApp.csproj|solutionrelative:blazorsignalrapp\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5749AD2E-F995-4074-9437-769C42D692CA}|BlazorSignalRApp\\BlazorSignalRApp.csproj|c:\\users\\colet\\source\\repos\\projet.net\\blazorsignalrapp\\blazorsignalrapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5749AD2E-F995-4074-9437-769C42D692CA}|BlazorSignalRApp\\BlazorSignalRApp.csproj|solutionrelative:blazorsignalrapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5749AD2E-F995-4074-9437-769C42D692CA}|BlazorSignalRApp\\BlazorSignalRApp.csproj|c:\\users\\colet\\source\\repos\\projet.net\\blazorsignalrapp\\blazorsignalrapp\\controllers\\chatapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5749AD2E-F995-4074-9437-769C42D692CA}|BlazorSignalRApp\\BlazorSignalRApp.csproj|solutionrelative:blazorsignalrapp\\controllers\\chatapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\colet\\AppData\\Local\\Temp\\.vsdbgsrc\\1fb6d351aa0d0091a301be5c00a22e555c9a5f310f4ed1a2dc63c10b12d2e0ad\\DefaultHubDispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5749AD2E-F995-4074-9437-769C42D692CA}|BlazorSignalRApp\\BlazorSignalRApp.csproj|c:\\users\\colet\\source\\repos\\projet.net\\blazorsignalrapp\\blazorsignalrapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5749AD2E-F995-4074-9437-769C42D692CA}|BlazorSignalRApp\\BlazorSignalRApp.csproj|solutionrelative:blazorsignalrapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5749AD2E-F995-4074-9437-769C42D692CA}|BlazorSignalRApp\\BlazorSignalRApp.csproj|c:\\users\\colet\\source\\repos\\projet.net\\blazorsignalrapp\\blazorsignalrapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5749AD2E-F995-4074-9437-769C42D692CA}|BlazorSignalRApp\\BlazorSignalRApp.csproj|solutionrelative:blazorsignalrapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5749AD2E-F995-4074-9437-769C42D692CA}|BlazorSignalRApp\\BlazorSignalRApp.csproj|c:\\users\\colet\\source\\repos\\projet.net\\blazorsignalrapp\\blazorsignalrapp\\components\\pages\\historique.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5749AD2E-F995-4074-9437-769C42D692CA}|BlazorSignalRApp\\BlazorSignalRApp.csproj|solutionrelative:blazorsignalrapp\\components\\pages\\historique.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\colet\\AppData\\Local\\Temp\\.vsdbgsrc\\7f988d92f74adc3858f108e90f6756bdbd458bdc1dfe85ac599bdac763b3f931\\AddressBinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C219B7-E0FB-4749-AA73-5069641618FB}|BlazorSignalRApp.Client\\BlazorSignalRApp.Client.csproj|c:\\users\\colet\\source\\repos\\projet.net\\blazorsignalrapp\\blazorsignalrapp.client\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01C219B7-E0FB-4749-AA73-5069641618FB}|BlazorSignalRApp.Client\\BlazorSignalRApp.Client.csproj|solutionrelative:blazorsignalrapp.client\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C219B7-E0FB-4749-AA73-5069641618FB}|BlazorSignalRApp.Client\\BlazorSignalRApp.Client.csproj|c:\\users\\colet\\source\\repos\\projet.net\\blazorsignalrapp\\blazorsignalrapp.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C219B7-E0FB-4749-AA73-5069641618FB}|BlazorSignalRApp.Client\\BlazorSignalRApp.Client.csproj|solutionrelative:blazorsignalrapp.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefaultHubDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\colet\\AppData\\Local\\Temp\\.vsdbgsrc\\1fb6d351aa0d0091a301be5c00a22e555c9a5f310f4ed1a2dc63c10b12d2e0ad\\DefaultHubDispatcher.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1fb6d351aa0d0091a301be5c00a22e555c9a5f310f4ed1a2dc63c10b12d2e0ad\\DefaultHubDispatcher.cs",
+              "ToolTip": "C:\\Users\\colet\\AppData\\Local\\Temp\\.vsdbgsrc\\1fb6d351aa0d0091a301be5c00a22e555c9a5f310f4ed1a2dc63c10b12d2e0ad\\DefaultHubDispatcher.cs [Lecture seule]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1fb6d351aa0d0091a301be5c00a22e555c9a5f310f4ed1a2dc63c10b12d2e0ad\\DefaultHubDispatcher.cs [Lecture seule]",
+              "ViewState": "AgIAAIwBAAAAAAAAAAAjwJQBAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T11:52:46.872Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "BlazorSignalRApp\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp\\Models\\Message.cs",
+              "RelativeToolTip": "BlazorSignalRApp\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:37:31.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp\\data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlazorSignalRApp\\data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp\\data\\AppDbContext.cs",
+              "RelativeToolTip": "BlazorSignalRApp\\data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:33:54.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatApiController.cs",
+              "DocumentMoniker": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp\\Controllers\\ChatApiController.cs",
+              "RelativeDocumentMoniker": "BlazorSignalRApp\\Controllers\\ChatApiController.cs",
+              "ToolTip": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp\\Controllers\\ChatApiController.cs",
+              "RelativeToolTip": "BlazorSignalRApp\\Controllers\\ChatApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:36:22.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Historique.razor",
+              "DocumentMoniker": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp\\Components\\Pages\\Historique.razor",
+              "RelativeDocumentMoniker": "BlazorSignalRApp\\Components\\Pages\\Historique.razor",
+              "ToolTip": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp\\Components\\Pages\\Historique.razor",
+              "RelativeToolTip": "BlazorSignalRApp\\Components\\Pages\\Historique.razor",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T09:42:05.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp\\hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "BlazorSignalRApp\\hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp\\hubs\\ChatHub.cs",
+              "RelativeToolTip": "BlazorSignalRApp\\hubs\\ChatHub.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:37:46.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorSignalRApp\\Program.cs",
+              "ToolTip": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp\\Program.cs",
+              "RelativeToolTip": "BlazorSignalRApp\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:18:23.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddressBinder.cs",
+              "DocumentMoniker": "C:\\Users\\colet\\AppData\\Local\\Temp\\.vsdbgsrc\\7f988d92f74adc3858f108e90f6756bdbd458bdc1dfe85ac599bdac763b3f931\\AddressBinder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7f988d92f74adc3858f108e90f6756bdbd458bdc1dfe85ac599bdac763b3f931\\AddressBinder.cs",
+              "ToolTip": "C:\\Users\\colet\\AppData\\Local\\Temp\\.vsdbgsrc\\7f988d92f74adc3858f108e90f6756bdbd458bdc1dfe85ac599bdac763b3f931\\AddressBinder.cs [Lecture seule]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7f988d92f74adc3858f108e90f6756bdbd458bdc1dfe85ac599bdac763b3f931\\AddressBinder.cs [Lecture seule]",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAowMYAAAA5AAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:05:32.615Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Chat.razor",
+              "DocumentMoniker": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp.Client\\Pages\\Chat.razor",
+              "RelativeDocumentMoniker": "BlazorSignalRApp.Client\\Pages\\Chat.razor",
+              "ToolTip": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp.Client\\Pages\\Chat.razor",
+              "RelativeToolTip": "BlazorSignalRApp.Client\\Pages\\Chat.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T15:58:04.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp.Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorSignalRApp.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\colet\\source\\repos\\projet.net\\BlazorSignalRApp\\BlazorSignalRApp.Client\\Program.cs",
+              "RelativeToolTip": "BlazorSignalRApp.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:51:13.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

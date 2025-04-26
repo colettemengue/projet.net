@@ -1,0 +1,6 @@
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\obj\Debug\net9.0\BlazorSignalRApp.csproj.AssemblyReference.cache
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\obj\Debug\net9.0\BlazorSignalRApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\obj\Debug\net9.0\BlazorSignalRApp.AssemblyInfoInputs.cache
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\obj\Debug\net9.0\BlazorSignalRApp.AssemblyInfo.cs
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\obj\Debug\net9.0\BlazorSignalRApp.csproj.CoreCompileInputs.cache
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\obj\Debug\net9.0\BlazorSignalRApp.MvcApplicationPartsAssemblyInfo.cache

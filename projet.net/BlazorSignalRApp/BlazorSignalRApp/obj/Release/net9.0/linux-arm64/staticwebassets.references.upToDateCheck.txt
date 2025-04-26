@@ -1,0 +1,8 @@
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Release\net9.0\staticwebassets.build.json

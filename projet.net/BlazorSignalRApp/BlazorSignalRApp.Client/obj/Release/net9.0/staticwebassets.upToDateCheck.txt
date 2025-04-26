@@ -1,0 +1,4 @@
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\BlazorSignalRApp.Client\wwwroot\appsettings.json
+C:\Users\colet\source\repos\projet.net\BlazorSignalRApp\BlazorSignalRApp.Client\wwwroot\appsettings.Development.json
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json

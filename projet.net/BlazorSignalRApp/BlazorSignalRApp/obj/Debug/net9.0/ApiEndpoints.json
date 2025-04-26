@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "BlazorSignalRApp.Controllers.ChatApiController",
+    "Method": "SendMessage",
+    "RelativePath": "api/ChatApi/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "message",
+        "Type": "BlazorSignalRApp.Controllers.ChatMessage",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
